@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Decentralized Bidding Protocol
-    subtitle: Celebrating daily wins with YourGoal.
+    subtitle: create your auction protocol
     actions:
       - label: Let's see how
         url: /pricing
