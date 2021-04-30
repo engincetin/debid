@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Decentralized Protocols
-    subtitle: "DeBid brings you the various auction protocols with\_fast settlement, low fees\_and many input options\_to find exactly as you need"
+    subtitle: create bidding find exactly as you need
     actions:
       - label: Let's see how
         url: /pricing
