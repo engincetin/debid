@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Decentralized Bidding Protocol
     subtitle: >-
-      create auction protocols, with fast settlement and low fees, you can make
-      open auctions without any trust
+      create decentralised auctions, with fast settlement and low fees, you can
+      make open auctions without any trust
     actions:
       - label: Let's see how
         url: /pricing
