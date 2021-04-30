@@ -5,7 +5,7 @@ sections:
     title: Decentralized Bidding
     subtitle: >-
       Debid fully decentralized.. Create auctions without central authority
-      sitting between buyer and seller.
+      sitting between bidders and seller.
     actions:
       - label: Let's see how
         url: /pricing
