@@ -5,7 +5,7 @@ sections:
     title: Decentralized Bidding Protocol
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Let's see how
         url: /pricing
         style: primary
     image: images/hero.svg
