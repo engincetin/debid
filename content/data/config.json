@@ -24,11 +24,6 @@
                 "style": "link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
-                "style": "link"
-            },
-            {
                 "label": "Create Auction",
                 "url": "/thank-you",
                 "style": "primary"
