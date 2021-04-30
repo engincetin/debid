@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Decentralized Bidding
     subtitle: >-
-      Debid fully decentralized.. There is no central authority sitting between
-      buyer and seller.
+      Debid fully decentralized.. Create auctions without central authority
+      sitting between buyer and seller.
     actions:
       - label: Let's see how
         url: /pricing
