@@ -25,7 +25,7 @@ sections:
     title: Multi-chain auctions
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/Frame 231png.png
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
