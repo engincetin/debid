@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Decentralized peer-to-peer Auction Protocols
+    title: Decentralized Peer-to-Peer Auction Protocols
     subtitle: >-
       create decentralised auctions, with fast settlement and low fees, you can
       make open auctions without any trust
