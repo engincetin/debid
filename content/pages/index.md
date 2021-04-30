@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Decentralized Bidding Protocol
-    subtitle: "create auction protocols,\_ can personalize as you wish with fast settlement, low fees, and a democratic distribution.."
+    subtitle: >-
+      create auction protocols, with fast settlement, low fees, and a democratic
+      distribution..
     actions:
       - label: Let's see how
         url: /pricing
