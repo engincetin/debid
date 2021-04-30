@@ -10,7 +10,7 @@ sections:
       - label: Let's see how
         url: /pricing
         style: primary
-    image: images/Frame 20.svg
+    image: images/Frame 212.svg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
@@ -22,10 +22,10 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Featured On
+    title: Multi-chain auctions
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/Frame 231png.png
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
