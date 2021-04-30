@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Decentralized Peer-to-Peer Bidding Protocols
+    title: Decentralized Protocols
     subtitle: >-
       Debid brings you the various auction protocols with many input options to
       find exactly as you need
