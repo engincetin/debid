@@ -2,13 +2,15 @@
 title: Home
 sections:
   - type: hero_section
-    title: Achieve your Goals!
-    subtitle: Celebrating daily wins with YourGoal.
+    title: Decentralized Peer-to-Peer Auction Protocols
+    subtitle: >-
+      create decentralised auctions, with fast settlement and low fees, you can
+      make open auctions without any trust
     actions:
-      - label: Try for free
+      - label: Let's see how
         url: /pricing
         style: primary
-    image: images/hero.svg
+    image: images/Group 225.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
