@@ -5,7 +5,7 @@ sections:
     title: Decentralized Peer-to-Peer Bidding Protocols
     subtitle: >-
       Debid brings you the various auction protocols with many input options to
-      find exactly what you want.
+      find exactly as you need
     actions:
       - label: Let's see how
         url: /pricing
