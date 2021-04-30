@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Decentralized Bidding
-    subtitle: create bidding find exactly as you need
+    subtitle: create auctions find exactly as you need
     actions:
       - label: Let's see how
         url: /pricing
