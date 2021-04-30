@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Decentralized Protocols
     subtitle: >-
-      Debid brings you the various auction protocols with many input options to
-      find exactly as you need
+      Debid brings you the various auction protocols with low fee many input
+      options to find exactly as you need
     actions:
       - label: Let's see how
         url: /pricing
