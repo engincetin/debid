@@ -103,7 +103,7 @@ sections:
         image: images/remarkable-petunia.svg
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
-        media_width: sixty
+        media_width: thirty-three
     feature_padding_vert: small
     background_color: none
   - type: grid_section
