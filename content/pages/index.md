@@ -114,7 +114,7 @@ sections:
       us for your early investment and cooperation requests.
     actions:
       - label: get in touch
-        url: /thank-you
+        url: 'mailto:hello@debid.io'
         style: primary
     actions_width: fourty
     align: center
