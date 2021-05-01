@@ -87,7 +87,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/33reww.svg
+        image: images/11330922w.svg
         image_alt: Feature 3 placeholder image
         media_position: left
         media_width: sixty
@@ -100,9 +100,9 @@ sections:
           “I love how lightweight and easy it is to use. It intuitively builds
           into my day-to-day rhythm, and the natural flow of my day.”
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: images/testimonials.png
+        image: images/remarkable-petunia.svg
         image_alt: Ursula Gurnmeister photo
-        media_position: left
+        media_position: bottom
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
