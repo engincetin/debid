@@ -10,7 +10,7 @@ sections:
       - label: Let's see how
         url: /pricing
         style: primary
-    image: images/Frame 2221.svg
+    image: images/Frame 2223.png
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
