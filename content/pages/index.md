@@ -120,7 +120,7 @@ sections:
     padding_top: large
     padding_bottom: large
     background_color: secondary
-    background_image: images/square-sparrow.svg
+    background_image: images/important-lime.png
     background_image_position: center top
     background_image_size: cover
     background_image_opacity: 10
