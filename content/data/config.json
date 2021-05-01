@@ -69,7 +69,7 @@
             },
             {
                 "label": "Patent Promise",
-                "url": "mailto",
+                "url": "mailto:",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
