@@ -22,7 +22,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Multi-chain auctions
+    title: supports multi-chains
     align: center
     grid_items:
       - image: images/Frame 231png.png
