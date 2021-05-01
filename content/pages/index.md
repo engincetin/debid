@@ -113,7 +113,7 @@ sections:
       DEBID is preparing to build its own ecosystem with **dBID** token, contact
       us for your early investment and cooperation requests.
     actions:
-      - label: subscribe
+      - label: join our community
         url: 'mailto:hello@debid.io'
         style: primary
     actions_width: fourty
