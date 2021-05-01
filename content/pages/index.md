@@ -22,7 +22,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: supports multi-chains
+    title: Supports Multi-Chains
     align: center
     grid_items:
       - image: images/eth.svg
@@ -42,7 +42,7 @@ sections:
     background_color: none
     background_image: images/splendid-octopus.svg
     enable_cards: false
-    subtitle: You can create auctions and recieve biddings on multiple platforms
+    subtitle: You can create auctions on multiple platforms and receive bids
   - type: features_section
     features:
       - title: All the Activity Data You Need to Improve Yourself
