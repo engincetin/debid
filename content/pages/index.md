@@ -78,7 +78,7 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: sixty
-      - title: Optimize Your Daily Schedule for Maximum Productivity
+      - title: Your auction is ready with a special link only for you
         content: >-
           With YourGoal you will be more productive and organized. Overcome
           procrastination and achieve your goals.
