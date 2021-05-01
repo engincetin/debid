@@ -28,7 +28,7 @@ sections:
       - image: images/eth.svg
         image_alt: Logo 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/pink-rabbit.svg
         image_alt: Logo 2
         image_align: center
       - image: images/bsc.svg
