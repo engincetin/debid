@@ -49,9 +49,7 @@ export default class Footer extends React.Component {
                 				)}
                 				{(_.get(this.props, 'data.config.footer.has_tertiary_nav', null) && _.get(this.props, 'data.config.footer.tertiary_nav_links', null)) && (
                 				<div className="site-footer__menu cell-12 cell-md my-3 my-md-4">
-                					{_.get(this.props, 'data.config.footer.tertiary_nav_title', null) && (
-                					<h2 className="h4 mb-3 mb-md-4">{_.get(this.props, 'data.config.footer.tertiary_nav_title', null)}</h2>
-                					)}
+                					
                 					<FooterMenu {...this.props} footer_menu={_.get(this.props, 'data.config.footer.tertiary_nav_links', null)} />
                 				</div>
                 				)}

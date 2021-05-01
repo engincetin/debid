@@ -27,7 +27,7 @@
         "has_anncmnt": false
     },
     "footer": {
-        "logo": "images/Frame 22322.svg",
+        "logo": "images/Frame 2242.svg",
         "logo_alt": "Debid",
         "has_primary_nav": true,
         "primary_nav_links": [
@@ -54,18 +54,30 @@
         "has_tertiary_nav": true,
         "tertiary_nav_links": [
             {
-                "label": "Contact Us",
+                "label": "Contact",
                 "url": "mailto:hello@debid.io",
-                "style": "link"
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "Legal",
-                "url": "mailto:legal@perframe.io",
-                "style": "link"
+                "url": "mailto:hello@debid.io",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             },
             {
                 "label": "Patent Promise",
-                "url": "mailto:patent@perframe.io",
+                "url": "mailto:hello@perframe.io",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -105,7 +117,8 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Debid. All rights reserved."
+        "content": "&copy; Debid. All rights reserved.",
+        "tertiary_nav_title": "reach us"
     },
     "domain": "https://debid-c43a1.netlify.app"
 }
