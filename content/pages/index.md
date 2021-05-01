@@ -96,11 +96,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - title: >-
-          “I love how lightweight and easy it is to use. It intuitively builds
-          into my day-to-day rhythm, and the natural flow of my day.”
-        subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: images/remarkable-petunia.svg
+      - image: images/gdgfdgf.png
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
         media_width: thirty-three
