@@ -100,7 +100,7 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
         media_width: thirty-three
-        title: 'costumize your auctions '
+        title: ccreate your own auction business
         align: center
     feature_padding_vert: small
     background_color: none
