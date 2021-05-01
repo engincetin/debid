@@ -17,7 +17,7 @@ sections:
     padding_top: large
     padding_bottom: small
     background_color: none
-    background_image: images/11background 3.svg
+    background_image: images/terrific-steel.svg
     background_image_position: center top
     background_image_size: auto
     background_image_opacity: 60
@@ -40,7 +40,7 @@ sections:
     padding_top: small
     padding_bottom: medium
     background_color: none
-    background_image: images/background 1qq.svg
+    background_image: images/splendid-octopus.svg
     enable_cards: false
     subtitle: You can create auctions and recieve biddings on multiple platforms
   - type: features_section
