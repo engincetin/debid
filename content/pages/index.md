@@ -96,7 +96,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - image: images/remarkable-petunia.svg
+      - image: images/12Frame 29.png
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
         media_width: thirty-three
