@@ -43,7 +43,7 @@ sections:
     background_image: images/splendid-octopus.svg
     enable_cards: false
     subtitle: >-
-      You can create auctions on multiple platforms and receive bids with debid
+      You can create auctions on multiple platforms and receive bids with Debid
       smart contracts, you can open the auction you want.
   - type: features_section
     features:
