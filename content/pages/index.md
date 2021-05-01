@@ -58,7 +58,7 @@ sections:
             icon_position: right
         image: images/Frame 30hg.svg
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: Achieve Your Goals With Your Friends
         content: >-
