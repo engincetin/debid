@@ -113,7 +113,7 @@ sections:
       DEBID is preparing to build its own ecosystem with **DBED** token, contact
       us for your early investment and cooperation requests.
     actions:
-      - label: get in touch
+      - label: Get in touch
         url: 'mailto:hello@debid.io'
         style: primary
     actions_width: fourty
