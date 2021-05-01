@@ -108,7 +108,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: cta_section
-    title: Ready to get started?
+    title: Want to get involved?
     content: Start achieving your goals today!
     actions:
       - label: Try for free
