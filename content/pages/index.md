@@ -102,6 +102,9 @@ sections:
         media_width: thirty-three
         title: Create Your Own Auction Platform
         align: center
+        subtitle: >-
+          Collaborate with debid to create your own auction platform. Organize
+          debid's auction protocols as you wish on your own platform
     feature_padding_vert: small
     background_color: none
   - type: grid_section
