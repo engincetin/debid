@@ -47,7 +47,7 @@ sections:
       smart contracts, you can open the auction you want.
   - type: features_section
     features:
-      - title: Do you just need to create an auction?
+      - title: Do you just need to open an auction?
         content: >
           You do not have to register somewhere to create an auction, and share
           a lot of your information with anyone. You can easily do this by using
