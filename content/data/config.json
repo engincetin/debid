@@ -87,7 +87,7 @@
                 "type": "action"
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Bug Bounty",
                 "url": "#",
                 "style": "link",
                 "has_icon": false,
