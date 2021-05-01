@@ -110,7 +110,7 @@ sections:
   - type: cta_section
     title: Get notified about dBID token
     content: >
-      DEBID is preparing to build its own ecosystem with **DBED** token, contact
+      DEBID is preparing to build its own ecosystem with **dBED** token, contact
       us for your early investment and cooperation requests.
     actions:
       - label: Get in Touch
