@@ -25,7 +25,7 @@ sections:
     title: supports multi-chains
     align: center
     grid_items:
-      - image: images/Frame 231png.png
+      - image: images/avax.svg
         image_alt: Logo 1
         image_align: center
       - image: images/logo-2.svg
