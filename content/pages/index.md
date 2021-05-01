@@ -56,7 +56,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/Frame 30hg.svg
+        image: images/hgd2.svg
         image_alt: Feature 1 placeholder image
         media_position: top
         media_width: sixty
