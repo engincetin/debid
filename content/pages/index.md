@@ -74,7 +74,7 @@ sections:
             icon_position: right
         image: images/1133089dd.svg
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: right
         media_width: sixty
       - title: Optimize Your Daily Schedule for Maximum Productivity
         content: >-
