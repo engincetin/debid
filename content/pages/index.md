@@ -22,16 +22,16 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Multi-chain auctions
+    title: supports multi-chains
     align: center
     grid_items:
-      - image: images/Frame 231png.png
+      - image: images/eth.svg
         image_alt: Logo 1
         image_align: center
-      - image: images/logo-2.svg
+      - image: images/pink-rabbit.svg
         image_alt: Logo 2
         image_align: center
-      - image: images/logo-3.svg
+      - image: images/bsc.svg
         image_alt: Logo 3
         image_align: center
     grid_cols: three
