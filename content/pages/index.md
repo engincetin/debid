@@ -109,7 +109,8 @@ sections:
     background_color: none
   - type: cta_section
     title: Want to get involved?
-    content: Start achieving your goals today!
+    content: |
+      DeBid is growing fast! Subscribe to stay updated
     actions:
       - label: Try for free
         url: /thank-you
