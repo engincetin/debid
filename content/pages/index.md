@@ -25,7 +25,7 @@ sections:
     title: Supports Multi-Chains
     align: center
     grid_items:
-      - image: images/eth.svg
+      - image: images/eth2.svg
         image_alt: Logo 1
         image_align: center
       - image: images/pink-rabbit.svg
