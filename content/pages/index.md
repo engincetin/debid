@@ -22,7 +22,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Supports multi-chains
+    title: Supports Multi-Chains
     align: center
     grid_items:
       - image: images/eth.svg
