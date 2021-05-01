@@ -108,7 +108,7 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: cta_section
-    title: WGet notified about dART token staking.?
+    title: Get notified about dBID token
     content: >
       DEBID is preparing to build its own ecosystem with **DBED** token, contact
       us for your early investment and cooperation requests.
