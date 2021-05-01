@@ -100,7 +100,7 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
         media_width: thirty-three
-        title: ccreate your own auction business
+        title: Create Your Own Auction Platform
         align: center
     feature_padding_vert: small
     background_color: none
