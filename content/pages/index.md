@@ -40,6 +40,7 @@ sections:
     padding_top: small
     padding_bottom: medium
     background_color: none
+    background_image: images/background.svg
   - type: features_section
     title: Why Choose YourGoal?
     features:
