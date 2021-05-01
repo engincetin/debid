@@ -103,7 +103,7 @@ sections:
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
-        media_width: thirty-three
+        media_width: fourty
     feature_padding_vert: small
     background_color: none
   - type: grid_section
