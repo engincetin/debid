@@ -85,7 +85,7 @@ sections:
           they want
         actions:
           - label: Learn More
-            url: /thank-you
+            url: 'mailto:'
             style: link
             has_icon: true
             icon: arrow-right
