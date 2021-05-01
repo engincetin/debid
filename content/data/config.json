@@ -14,11 +14,6 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Whitepaper",
-                "url": "/about",
-                "style": "link"
-            },
-            {
                 "label": "Create Auction",
                 "url": "/thank-you",
                 "style": "primary"
@@ -101,29 +96,11 @@
         "has_social": true,
         "social_links": [
             {
-                "label": "Twitter",
-                "url": "https://twitter.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "twitter",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/DeBidTeam/DeBid",
                 "style": "link",
                 "has_icon": true,
                 "icon": "github",
-                "icon_position": "center",
-                "new_window": true
-            },
-            {
-                "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
-                "style": "link",
-                "has_icon": true,
-                "icon": "linkedin",
                 "icon_position": "center",
                 "new_window": true
             }

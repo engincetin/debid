@@ -42,16 +42,19 @@ sections:
     background_color: none
     background_image: images/splendid-octopus.svg
     enable_cards: false
-    subtitle: You can create auctions on multiple platforms and receive bids
+    subtitle: >-
+      You can create auctions on multiple platforms and receive bids with debid
+      smart contracts, you can open the auction you want.
   - type: features_section
     features:
-      - title: All the Activity Data You Need to Improve Yourself
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+      - title: Do you just need to open an auction?
+        content: >
+          You do not have to register somewhere to create an auction, and share
+          a lot of your information with anyone. You can easily do this by using
+          debid.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: 'mailto:hello@debid.io'
             style: link
             has_icon: true
             icon: arrow-right
@@ -60,14 +63,13 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: sixty
-      - title: Achieve Your Goals With Your Friends
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+      - title: We made it easy for you
+        content: >
+          At Debid we pride ourselves on being easy to use, you can create your
+          auction with one click without dealing with tons of details.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: 'mailto:hello@debid.io'
             style: link
             has_icon: true
             icon: arrow-right
@@ -76,13 +78,14 @@ sections:
         image_alt: Feature 2 placeholder image
         media_position: right
         media_width: sixty
-      - title: Optimize Your Daily Schedule for Maximum Productivity
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+      - title: Your auction is ready with a special link only for you
+        content: >
+          We are against central market areas as Debid. We aim to enable
+          everyone to create their auction as they wish and share it wherever
+          they want
         actions:
           - label: Learn More
-            url: /thank-you
+            url: 'mailto:hello@debid.io'
             style: link
             has_icon: true
             icon: arrow-right
@@ -103,7 +106,7 @@ sections:
         title: Create Your Own Auction Platform
         align: center
         subtitle: >-
-          Collaborate with debid to create your own auction platform. Organize
+          Collaborate with Debid to create your own auction platform. Organize
           debid's auction protocols as you wish on your own platform
     feature_padding_vert: small
     background_color: none
