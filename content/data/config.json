@@ -84,7 +84,8 @@
             }
         ],
         "content": "&copy; Debid. All rights reserved.",
-        "secondary_nav_title": "Contact"
+        "secondary_nav_title": "Contact",
+        "tertiary_nav_title": "tt"
     },
     "domain": "https://debid-c43a1.netlify.app"
 }
