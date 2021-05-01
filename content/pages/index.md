@@ -42,7 +42,7 @@ sections:
     background_color: none
     background_image: images/splendid-octopus.svg
     enable_cards: false
-    subtitle: You can create auctions on multiple platform and recieve bids
+    subtitle: You can create auctions on multiple platform and you can recieve bids
   - type: features_section
     features:
       - title: All the Activity Data You Need to Improve Yourself
