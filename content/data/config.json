@@ -55,7 +55,7 @@
         "tertiary_nav_links": [
             {
                 "label": "Contact",
-                "url": "#",
+                "url": "mailto:",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
