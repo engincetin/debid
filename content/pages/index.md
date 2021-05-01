@@ -108,12 +108,12 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: cta_section
-    title: Want to get involved?
+    title: Get notified about dBID token
     content: >
-      DEBID is preparing to build its own ecosystem with **DBED** token, contact
+      DEBID is preparing to build its own ecosystem with **dBID** token, contact
       us for your early investment and cooperation requests.
     actions:
-      - label: Get in Touch
+      - label: join our community
         url: 'mailto:hello@debid.io'
         style: primary
     actions_width: fourty
