@@ -54,7 +54,7 @@ sections:
           debid.
         actions:
           - label: Learn More
-            url: /thank-you
+            url: mailto@debid.io
             style: link
             has_icon: true
             icon: arrow-right
