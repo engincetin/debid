@@ -102,7 +102,7 @@ sections:
         subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
         image: images/testimonials.png
         image_alt: Ursula Gurnmeister photo
-        media_position: left
+        media_position: bottom
         media_width: thirty-three
     feature_padding_vert: small
     background_color: none
