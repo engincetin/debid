@@ -69,7 +69,7 @@ sections:
           auction with one click without dealing with tons of details.
         actions:
           - label: Learn More
-            url: 'mailto:debid@'
+            url: 'mailto:hello@debid.io'
             style: link
             has_icon: true
             icon: arrow-right
