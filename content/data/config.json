@@ -83,8 +83,7 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Debid. All rights reserved.",
-        "primary_nav_title": "test"
+        "content": "&copy; Debid. All rights reserved."
     },
     "domain": "https://debid-c43a1.netlify.app"
 }
