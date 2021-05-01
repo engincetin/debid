@@ -100,7 +100,7 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
         media_width: thirty-three
-        title: Start
+        title: 'Start your '
     feature_padding_vert: small
     background_color: none
   - type: grid_section
