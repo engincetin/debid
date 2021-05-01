@@ -27,58 +27,52 @@
         "has_anncmnt": false
     },
     "footer": {
-        "logo": "images/logo.svg",
-        "logo_alt": "YourGoal logo",
+        "logo": "images/Frame 22322.svg",
+        "logo_alt": "Debid",
         "has_primary_nav": true,
-        "primary_nav_title": "Company",
         "primary_nav_links": [
             {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
                 "url": "/style-guide",
                 "style": "link"
             }
         ],
         "has_secondary_nav": true,
-        "secondary_nav_title": "Blog",
         "secondary_nav_links": [
             {
-                "label": "News",
                 "url": "/blog/category/news",
                 "style": "link"
             },
             {
-                "label": "Tips",
                 "url": "/blog/category/tips",
                 "style": "link"
             },
             {
-                "label": "Use Cases",
                 "url": "/blog/category/use-cases",
                 "style": "link"
             }
         ],
         "has_tertiary_nav": true,
-        "tertiary_nav_title": "Legal",
         "tertiary_nav_links": [
             {
-                "label": "Terms & Conditions",
-                "url": "/terms-conditions",
+                "label": "Contact Us",
+                "url": "mailto:hello@debid.io",
                 "style": "link"
             },
             {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
+                "label": "Legal",
+                "url": "mailto:legal@perframe.io",
                 "style": "link"
+            },
+            {
+                "label": "Patent Promise",
+                "url": "mailto:patent@perframe.io",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_social": true,
