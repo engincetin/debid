@@ -49,11 +49,7 @@ export default class Footer extends React.Component {
                 				)}
                 				{(_.get(this.props, 'data.config.footer.has_tertiary_nav', null) && _.get(this.props, 'data.config.footer.tertiary_nav_links', null)) && (
                 				<div className="site-footer__menu cell-12 cell-md my-3 my-md-4">
-                					{has_logo && (
-                				<Link className="site-footer__logo cell-12 cell-md-5 my-4" href={withPrefix('/')}>
-                					<img src={withPrefix(_.get(this.props, 'data.config.footer.logo', null))} alt={_.get(this.props, 'data.config.header.logo_alt', null)} />
-                				</Link>
-                				)}
+                					
                 					<FooterMenu {...this.props} footer_menu={_.get(this.props, 'data.config.footer.tertiary_nav_links', null)} />
                 				</div>
                 				)}
