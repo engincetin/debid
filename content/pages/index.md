@@ -8,7 +8,7 @@ sections:
       sitting between bidders and seller.
     actions:
       - label: Let's see how
-        url: /pricing
+        url: 'https://app.debid.io/'
         style: primary
     image: images/Frame 2223.png
     image_alt: Hero section placeholder image
