@@ -85,7 +85,7 @@ sections:
           they want
         actions:
           - label: Learn More
-            url: 'mailto:'
+            url: 'mailto:hello@debid.io'
             style: link
             has_icon: true
             icon: arrow-right
