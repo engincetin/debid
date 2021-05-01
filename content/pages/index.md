@@ -79,9 +79,10 @@ sections:
         media_position: right
         media_width: sixty
       - title: Your auction is ready with a special link only for you
-        content: >-
-          With YourGoal you will be more productive and organized. Overcome
-          procrastination and achieve your goals.
+        content: >
+          We are against central market areas as Debid. We aim to enable
+          everyone to create their auction as they wish and share it wherever
+          they want
         actions:
           - label: Learn More
             url: /thank-you
