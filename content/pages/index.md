@@ -40,7 +40,7 @@ sections:
     padding_top: small
     padding_bottom: medium
     background_color: none
-    background_image: images/background.svg
+    background_image: images/background-1.svg
     enable_cards: false
     subtitle: You can create auctions on multiple platforms
   - type: features_section
