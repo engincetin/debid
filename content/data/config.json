@@ -64,7 +64,7 @@
             },
             {
                 "label": "Legal",
-                "url": "/privacy-policy",
+                "url": "mailto:",
                 "style": "link"
             }
         ],
