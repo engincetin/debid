@@ -56,9 +56,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/Frame 30hg.svg
+        image: images/Frame 30df.svg
         image_alt: Feature 1 placeholder image
-        media_position: right
+        media_position: left
         media_width: sixty
       - title: Achieve Your Goals With Your Friends
         content: >-
@@ -74,7 +74,7 @@ sections:
             icon_position: right
         image: images/1133089dd.svg
         image_alt: Feature 2 placeholder image
-        media_position: left
+        media_position: right
         media_width: sixty
       - title: Optimize Your Daily Schedule for Maximum Productivity
         content: >-
