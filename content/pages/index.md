@@ -44,7 +44,6 @@ sections:
     enable_cards: false
     subtitle: You can create auctions and recieve biddings on multiple platforms
   - type: features_section
-    title: Why Choose YourGoal?
     features:
       - title: All the Activity Data You Need to Improve Yourself
         content: >-
