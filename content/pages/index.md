@@ -64,10 +64,9 @@ sections:
         media_position: left
         media_width: sixty
       - title: We made it easy for you
-        content: >-
-          Friends are an integral part of our life, a true friend can motivate
-          you to achieve your goals. With Your Goal, you can set goals with your
-          friends and achieve them together.
+        content: >
+          At Debid we pride ourselves on being easy to use, you can create your
+          auction with one click without dealing with tons of details.
         actions:
           - label: Learn More
             url: /thank-you
