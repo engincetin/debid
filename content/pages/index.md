@@ -96,8 +96,7 @@ sections:
     background_color: none
   - type: features_section
     features:
-      - subtitle: 'Ursula Gurnmeister, Sr. Design Manager at Company'
-        image: images/remarkable-petunia.svg
+      - image: images/remarkable-petunia.svg
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
         media_width: thirty-three
