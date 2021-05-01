@@ -110,7 +110,7 @@ sections:
   - type: cta_section
     title: Want to get involved?
     content: >
-      ##### DEBID is preparing to build its own ecosystem with DBED token,
+      ###### DEBID is preparing to build its own ecosystem with DBED token,
       contact us for your early investment and cooperation requests.
     actions:
       - label: Try for free
