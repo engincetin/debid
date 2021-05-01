@@ -58,7 +58,7 @@ sections:
             icon_position: right
         image: images/12Frame 29.png
         image_alt: Feature 1 placeholder image
-        media_position: top
+        media_position: left
         media_width: sixty
       - title: Achieve Your Goals With Your Friends
         content: >-
