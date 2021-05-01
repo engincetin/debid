@@ -109,8 +109,9 @@ sections:
     background_color: none
   - type: cta_section
     title: Want to get involved?
-    content: |
-      DeBid is growing fast! Subscribe to stay updated
+    content: >
+      ## DEBID is preparing to build its own ecosystem with DBED token, contact
+      us for your early investment and cooperation requests.
     actions:
       - label: Try for free
         url: /thank-you
