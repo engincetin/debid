@@ -48,9 +48,10 @@ sections:
   - type: features_section
     features:
       - title: All the Activity Data You Need to Improve Yourself
-        content: >-
-          With Your Goal, you can create a dashboard with data about your
-          activities and track your progress.
+        content: >
+          You do not have to register somewhere to create an auction, and share
+          a lot of your information with anyone. You can easily do this by using
+          debid.
         actions:
           - label: Learn More
             url: /thank-you
