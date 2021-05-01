@@ -73,6 +73,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+    background_image: images/Frame 2533.svg
   - type: features_section
     title: Why Choose YourGoal?
     features:
