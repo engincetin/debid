@@ -101,6 +101,7 @@ sections:
         media_position: bottom
         media_width: thirty-three
         title: 'costumize your auctions '
+        align: center
     feature_padding_vert: small
     background_color: none
   - type: grid_section
