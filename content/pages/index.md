@@ -36,10 +36,13 @@ sections:
         image_align: center
     grid_cols: three
     grid_gap_horiz: medium
-    grid_gap_vert: medium
+    grid_gap_vert: small
     padding_top: small
     padding_bottom: medium
     background_color: none
+    background_image: images/background 1qq.svg
+    enable_cards: false
+    subtitle: You can create auctions and recieve biddings on multiple platforms
   - type: features_section
     title: Why Choose YourGoal?
     features:
