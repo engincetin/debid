@@ -87,7 +87,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/33reww.svg
+        image: images/11330922w.svg
         image_alt: Feature 3 placeholder image
         media_position: left
         media_width: sixty
