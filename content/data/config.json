@@ -33,11 +33,6 @@
         "primary_nav_title": "Debid",
         "primary_nav_links": [
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
                 "url": "/style-guide",
                 "style": "link"
             }
