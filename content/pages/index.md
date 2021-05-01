@@ -87,9 +87,9 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-        image: images/feature-3.png
+        image: images/33reww.svg
         image_alt: Feature 3 placeholder image
-        media_position: right
+        media_position: left
         media_width: sixty
     feature_padding_vert: large
     align: center
