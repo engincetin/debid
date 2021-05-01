@@ -19,11 +19,6 @@
                 "style": "link"
             },
             {
-                "label": "FAQ",
-                "url": "/faq",
-                "style": "link"
-            },
-            {
                 "label": "Create Auction",
                 "url": "/thank-you",
                 "style": "primary"
