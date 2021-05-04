@@ -10,7 +10,7 @@ sections:
       - label: Let's see how
         url: 'https://app.debid.io/'
         style: primary
-    image: images/Frame 2223.png
+    image: images/main-frame.svg
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
