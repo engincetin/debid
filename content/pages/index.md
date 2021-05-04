@@ -50,8 +50,7 @@ sections:
           a lot of your information with anyone. You can easily do this by using
           debid.
         actions:
-          - url: 'mailto:hello@debid.io'
-            style: link
+          - style: link
             has_icon: true
             icon: arrow-right
             icon_position: right
