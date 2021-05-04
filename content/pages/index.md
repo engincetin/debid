@@ -68,13 +68,7 @@ sections:
           We are against central market areas as Debid. We aim to enable
           everyone to create their auction as they wish and share it wherever
           they want
-        actions:
-          - label: Learn More
-            url: 'mailto:hello@debid.io'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/11330922w.svg
         image_alt: Feature 3 placeholder image
         media_position: left
