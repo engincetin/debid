@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       Debid fully decentralized.. Create auctions without central authority
       sitting between bidders and seller.
-    actions:
-      - label: Let's see how
-        url: 'https://app.debid.io/'
-        style: primary
+    actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
     media_position: bottom
