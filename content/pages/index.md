@@ -49,11 +49,7 @@ sections:
           You do not have to register somewhere to create an auction, and share
           a lot of your information with anyone. You can easily do this by using
           debid.
-        actions:
-          - style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/Framfsee 30.svg
         image_alt: Feature 1 placeholder image
         media_position: left
