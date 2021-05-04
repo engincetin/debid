@@ -6,10 +6,7 @@ sections:
     subtitle: >-
       Debid fully decentralized.. Create auctions without central authority
       sitting between bidders and seller.
-    actions:
-      - label: Let's see how
-        url: 'https://app.debid.io/'
-        style: primary
+    actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
     media_position: bottom
@@ -52,13 +49,7 @@ sections:
           You do not have to register somewhere to create an auction, and share
           a lot of your information with anyone. You can easily do this by using
           debid.
-        actions:
-          - label: Learn More
-            url: 'mailto:hello@debid.io'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/Framfsee 30.svg
         image_alt: Feature 1 placeholder image
         media_position: left
@@ -67,13 +58,7 @@ sections:
         content: >
           At Debid we pride ourselves on being easy to use, you can create your
           auction with one click without dealing with tons of details.
-        actions:
-          - label: Learn More
-            url: 'mailto:hello@debid.io'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/1133089dd.svg
         image_alt: Feature 2 placeholder image
         media_position: right
@@ -83,13 +68,7 @@ sections:
           We are against central market areas as Debid. We aim to enable
           everyone to create their auction as they wish and share it wherever
           they want
-        actions:
-          - label: Learn More
-            url: 'mailto:hello@debid.io'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/11330922w.svg
         image_alt: Feature 3 placeholder image
         media_position: left

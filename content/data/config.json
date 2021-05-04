@@ -14,9 +14,15 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Create Auction",
-                "url": "http://debid.io",
-                "style": "primary"
+                "label": "Whitepaper",
+                "url": "#",
+                "style": "link",
+                "has_icon": false,
+                "icon": "arrow-left",
+                "icon_position": "right",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "has_anncmnt": false
