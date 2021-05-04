@@ -129,17 +129,18 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Startup Theme
-  description: The preview of the Startup theme
+  title: DeBid
+  description: Create auctions without central authority sitting between bidders and seller.
+
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: DeBid
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Create Your Own Auction Platform
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
