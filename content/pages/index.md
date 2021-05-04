@@ -58,13 +58,7 @@ sections:
         content: >
           At Debid we pride ourselves on being easy to use, you can create your
           auction with one click without dealing with tons of details.
-        actions:
-          - label: Learn More
-            url: 'mailto:hello@debid.io'
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         image: images/1133089dd.svg
         image_alt: Feature 2 placeholder image
         media_position: right
