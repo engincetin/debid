@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "Create Auction",
-                "url": "https://www.debid.io",
+                "url": "https://debid.io",
                 "style": "primary"
             }
         ],
