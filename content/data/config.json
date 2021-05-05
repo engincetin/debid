@@ -89,7 +89,7 @@
             },
             {
                 "label": "Bug Bounty",
-                "url": "mailto:hello@debid.io",
+                "url": "https://github.com/debidio/debid",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
