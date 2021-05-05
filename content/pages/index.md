@@ -96,7 +96,7 @@ sections:
       us for your early investment and cooperation requests.
     actions:
       - label: join our community
-        url: 'mailto:hello@debid.io'
+        url: Bug Bounty
         style: primary
     actions_width: fourty
     align: center
