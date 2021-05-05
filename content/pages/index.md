@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Decentralized Bidding
+    title: Create Your Decentralized Auction Protocols with Debid
     subtitle: >-
       Debid fully decentralized.. Create auctions without central authority
       sitting between bidders and seller.
