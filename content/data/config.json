@@ -67,7 +67,7 @@
             },
             {
                 "label": "Legal",
-                "url": "mailto:hello@debid.io",
+                "url": "mailto:contact@debid.io",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -78,7 +78,7 @@
             },
             {
                 "label": "Patent Promise",
-                "url": "mailto:hello@perframe.io",
+                "url": "mailto:hello@debid.io",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -89,7 +89,7 @@
             },
             {
                 "label": "Bug Bounty",
-                "url": "mailto:hello@debid.io",
+                "url": "https://github.com/debidio/debid",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
@@ -103,7 +103,7 @@
         "social_links": [
             {
                 "label": "GitHub",
-                "url": "https://github.com/DeBidTeam/DeBid",
+                "url": "https://github.com/debidio/debid",
                 "style": "link",
                 "has_icon": true,
                 "icon": "github",
@@ -112,7 +112,8 @@
             }
         ],
         "content": "&copy; Debid. All rights reserved.",
-        "tertiary_nav_title": "reach us"
+        "tertiary_nav_title": "reach us",
+        "links": []
     },
     "domain": "https://debid.io"
 }
