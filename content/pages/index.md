@@ -115,7 +115,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: DeBid
       keyName: property
     - name: 'og:description'
       value: Create auctions without central authority sitting between bidders and seller
