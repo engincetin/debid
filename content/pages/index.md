@@ -109,8 +109,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: DeBid
-  description: Create auctions without central authority sitting between bidders and seller.
-
+  description: >-
+    Create auctions without central authority sitting between bidders and
+    seller.
   extra:
     - name: 'og:type'
       value: website
@@ -122,7 +123,7 @@ seo:
       value: Create Your Own Auction Platform
       keyName: property
     - name: 'og:image'
-      value: images/feature-1.png
+      value: /images/debid-pics.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -132,7 +133,7 @@ seo:
     - name: 'twitter:description'
       value: Debid Decentralized Bidding Protocols
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: /images/parallel-sloth.png
       relativeUrl: true
 layout: advanced
 ---
