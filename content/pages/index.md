@@ -127,7 +127,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: DeBid
     - name: 'twitter:description'
       value: Create auctions without central authority sitting between bidders and seller
     - name: 'twitter:image'
