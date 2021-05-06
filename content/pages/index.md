@@ -126,8 +126,6 @@ seo:
       value: /images/debid-pics.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
     - name: 'twitter:title'
       value: Debid Decentralized Bidding Protocols
     - name: 'twitter:description'
