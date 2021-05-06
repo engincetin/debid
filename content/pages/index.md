@@ -127,7 +127,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: DeBid
+      value: Stackbit Startup Theme
     - name: 'twitter:description'
       value: The preview of the Startup theme
     - name: 'twitter:image'
