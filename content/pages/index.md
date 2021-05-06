@@ -127,7 +127,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Stackbit Startup Theme
+      value: Debid Decentralized Bidding Protocols
     - name: 'twitter:description'
       value: Debid Decentralized Bidding Protocols
     - name: 'twitter:image'
