@@ -133,7 +133,7 @@ seo:
     - name: 'twitter:description'
       value: Debid Decentralized Bidding Protocols
     - name: 'twitter:image'
-      value: /images/parallel-sloth.png
+      value: /images/mighty-hedgehog.png
       relativeUrl: true
 layout: advanced
 ---
