@@ -118,7 +118,7 @@ seo:
       value: DeBid
       keyName: property
     - name: 'og:description'
-      value: Create auctions without central authority sitting between bidders and seller
+      value: The preview of the Startup theme
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
