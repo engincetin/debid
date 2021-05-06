@@ -108,7 +108,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Debid Startup Theme
+  title: Debid
   description: The preview of the Startup theme
   extra:
     - name: 'og:type'
