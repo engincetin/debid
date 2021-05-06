@@ -137,5 +137,6 @@
         "tertiary_nav_title": "reach us",
         "links": []
     },
-    "domain": "https://debid.io"
+    "domain": "https://debid.io",
+    "favicon": "images/logo-debid-2x.png"
 }
