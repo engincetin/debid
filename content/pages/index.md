@@ -109,7 +109,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Debid
-  description: Create auctions without central authority sitting between bidders and seller.
+  description: The preview of the Startup theme
   extra:
     - name: 'og:type'
       value: website
