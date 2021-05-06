@@ -137,7 +137,7 @@ seo:
         Create auctions without central authority sitting between bidders and
         seller
     - name: 'twitter:image'
-      value: images/feature-1.png
+      value: /images/groovy-spinach.png
       relativeUrl: true
 layout: advanced
 ---
