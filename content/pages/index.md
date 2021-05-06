@@ -108,7 +108,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: Stackbit Startup Theme
+  title: Debid
   description: Debid Decentralized Bidding Protocols
   extra:
     - name: 'og:type'
