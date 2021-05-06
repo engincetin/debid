@@ -25,7 +25,8 @@
                 "type": "action"
             }
         ],
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "anncmnt_align": "right"
     },
     "footer": {
         "logo": "images/Frame 2242.svg",
