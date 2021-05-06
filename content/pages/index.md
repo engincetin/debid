@@ -115,7 +115,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Startup Theme
+      value: Debid
       keyName: property
     - name: 'og:description'
       value: Debid Decentralized Bidding Protocols
