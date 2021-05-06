@@ -109,7 +109,7 @@ sections:
     background_image_opacity: 10
 seo:
   title: Stackbit Startup Theme
-  description: The preview of the Startup theme
+  description: Debid Decentralized Bidding Protocols
   extra:
     - name: 'og:type'
       value: website
@@ -118,7 +118,7 @@ seo:
       value: Stackbit Startup Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Debid Decentralized Bidding Protocols
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
@@ -129,7 +129,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Startup Theme
     - name: 'twitter:description'
-      value: The preview of the Startup theme
+      value: Debid Decentralized Bidding Protocols
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
