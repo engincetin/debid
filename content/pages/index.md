@@ -109,7 +109,9 @@ sections:
     background_image_opacity: 10
 seo:
   title: Debid
-  description: Create auctions without central authority sitting between bidders and seller.
+  description: >-
+    Create auctions without central authority sitting between bidders and
+    seller.
   extra:
     - name: 'og:type'
       value: website
@@ -118,10 +120,12 @@ seo:
       value: DeBid
       keyName: property
     - name: 'og:description'
-      value: Create auctions without central authority sitting between bidders and seller
+      value: >-
+        Create auctions without central authority sitting between bidders and
+        seller
       keyName: property
     - name: 'og:image'
-      value: images/feature-1.png
+      value: /images/unique-mahogany.png
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
@@ -129,7 +133,9 @@ seo:
     - name: 'twitter:title'
       value: DeBid
     - name: 'twitter:description'
-      value: Create auctions without central authority sitting between bidders and seller
+      value: >-
+        Create auctions without central authority sitting between bidders and
+        seller
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
