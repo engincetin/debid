@@ -15,7 +15,7 @@
         "secondary_nav_links": [
             {
                 "label": "Whitepaper",
-                "url": "https://debid.gitbook.io/",
+                "url": "https://docs.debid.io/",
                 "style": "link",
                 "has_icon": false,
                 "icon": "arrow-left",
