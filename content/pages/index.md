@@ -118,7 +118,7 @@ seo:
       value: Stackbit Startup Theme
       keyName: property
     - name: 'og:description'
-      value: The preview of the Startup theme
+      value: Create auctions without central authority sitting between bidders and seller.
       keyName: property
     - name: 'og:image'
       value: images/feature-1.png
