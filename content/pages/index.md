@@ -129,7 +129,7 @@ seo:
     - name: 'twitter:title'
       value: DeBid
     - name: 'twitter:description'
-      value: Create auctions without central authority sitting between bidders and seller
+      value: The preview of the Startup theme
     - name: 'twitter:image'
       value: images/feature-1.png
       relativeUrl: true
