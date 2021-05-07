@@ -96,7 +96,7 @@ sections:
       us for your early investment and cooperation requests.
     actions:
       - label: Get Early Access
-        url: 'mailto:'
+        url: 'mailto:hello@debid.io'
         style: primary
     actions_width: fourty
     align: center
