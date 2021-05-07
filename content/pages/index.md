@@ -95,7 +95,7 @@ sections:
       DEBID is preparing to build its own ecosystem with **dBID** token, contact
       us for your early investment and cooperation requests.
     actions:
-      - label: join our community
+      - label: Get Early Access
         url: 'https://github.com/debidio/debid'
         style: primary
     actions_width: fourty
