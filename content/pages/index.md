@@ -94,8 +94,7 @@ sections:
     content: >
       DEBID is preparing to build its own ecosystem with **DBID** token, contact
       us for your early investment and cooperation requests.
-    actions:
-      - style: primary
+    actions: []
     actions_width: fourty
     align: center
     padding_top: large
