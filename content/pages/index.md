@@ -95,8 +95,7 @@ sections:
       DEBID is preparing to build its own ecosystem with **DBID** token, contact
       us for your early investment and cooperation requests.
     actions:
-      - label: Get Early Access
-        style: primary
+      - style: primary
     actions_width: fourty
     align: center
     padding_top: large
