@@ -90,14 +90,11 @@ sections:
     feature_padding_vert: small
     background_color: none
   - type: cta_section
-    title: Get notified about dBID token
+    title: Get notified about DBID token
     content: >
-      DEBID is preparing to build its own ecosystem with **dBID** token, contact
+      DEBID is preparing to build its own ecosystem with **DBID** token, contact
       us for your early investment and cooperation requests.
-    actions:
-      - label: Get Early Access
-        url: 'mailto:hello@debid.io'
-        style: primary
+    actions: []
     actions_width: fourty
     align: center
     padding_top: large
