@@ -5,7 +5,7 @@ sections:
     title: Mint your own NFTs
     subtitle: >-
       Debid is the KYC Compliant independent subnetwork where you can verify
-      NFTs and add digital, physical and experiential features.
+      NFTs and add digital, physical and experiential features
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
