@@ -19,7 +19,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Supports Multi-Chains
+    title: Sell on multiple marketplaces
     align: center
     grid_items:
       - image: images/eth2.svg
