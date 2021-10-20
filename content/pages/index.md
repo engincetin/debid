@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: 'Connects communities, creators and brands'
+    title: 'an Ecosystem for collectors, creators and brands'
     align: center
     grid_items:
       - image: images/eth2.svg
