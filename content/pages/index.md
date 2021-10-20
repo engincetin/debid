@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mint your own NFTs
-    subtitle: "Debid is the KYC Compliant independent subnet where you can validate NFTs and empower them with additional digital, physical and experiential features\_with zero coding required."
+    subtitle: "DDebid is a Subnet for NFTs where you can validate and empower them with additional digital, physical and experiential features comply with zero coding required.ebid is the KYC Compliant independent subnet where you can validate NFTs and empower them with additional digital, physical and experiential features\_with zero coding required."
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
