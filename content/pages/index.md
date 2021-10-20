@@ -46,7 +46,7 @@ sections:
       functional and sustainable
   - type: features_section
     features:
-      - title: Do you just need to open an auction?
+      - title: Sell on any marketplace
         content: >
           You do not have to register somewhere to create an auction, and share
           a lot of your information with anyone. You can easily do this by using
