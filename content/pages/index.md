@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Create your own verified NFTs
+    title: Create your own independent NFTs
     subtitle: >-
       Debid fully decentralized.. Create auctions without central authority
       sitting between bidders and seller.
