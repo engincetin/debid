@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Create your own NFTs
-    subtitle: >-
-      Debid is an independent Subnetwork for Creators to create NFTs without
-      central authority sitting between creators and collectors.
+    subtitle: Debid is an independent Subnetwork build on Avalanche..
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
