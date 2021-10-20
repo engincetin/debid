@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Create your own NFTs
+    title: Cmint your own NFTs with zero coding requiredreate your own NFTs
     subtitle: >-
       Debid is the KYC Compliant independent subnetwork where you can verify
       NFTs and add digital, physical and experiential features.
