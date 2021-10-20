@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Trade on all major NFT marketplaces.
+    title: Beyond just visual and audio NFTs
     align: center
     grid_items:
       - image: images/eth2.svg
