@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Create your own NFTs
-    subtitle: Debid is an independent Subnetwork build on Avalanche
+    subtitle: Debid is an independent Subnetwork for NFTs build on Avalanche
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
