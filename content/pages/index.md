@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Create Your Decentralized Auction Protocols with Debid
+    title: Create your own verified NFTs
     subtitle: >-
       Debid fully decentralized.. Create auctions without central authority
       sitting between bidders and seller.
