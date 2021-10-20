@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Mint your own NFTs
-    subtitle: "Debid is the KYC Compliant independent subnetwork where you can verify NFTs and add digital, physical and experiential features\_with zero coding required."
+    subtitle: Debid is the KYC Compliant .
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
