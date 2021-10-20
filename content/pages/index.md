@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Mint your own NFTs
     subtitle: >-
-      Debid is a Subnet build on Avalanche for NFTs where you can validate and
-      empower them with additional digital, physical and experiential features
-      comply with zero coding required.
+      Debid is a subnet for NFTs where you can validate and empower them with
+      additional digital, physical and experiential features comply with zero
+      coding required.
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
