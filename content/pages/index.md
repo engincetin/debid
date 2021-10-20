@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: Create your own NFTs
     subtitle: >-
-      Debid fully decentralized.. Create auctions without central authority
-      sitting between bidders and seller.
+      Debid fully decentralized.. Create NFTs without central authority sitting
+      between creators and collectors.
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
