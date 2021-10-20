@@ -20,7 +20,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: on all major NFT marketplaces.
+    title: Trade on all major NFT marketplaces.
     align: center
     grid_items:
       - image: images/eth2.svg
