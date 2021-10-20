@@ -3,7 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: Create your own NFTs
-    subtitle: Debid is an independent Subnetwork for NFTs build on Avalanche
+    subtitle: >-
+      Debid is the KYC Compliant independent subnetwork where you can verify
+      NFTs and add digital, physical and experiential features.
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
