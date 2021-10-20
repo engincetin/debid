@@ -41,7 +41,7 @@ sections:
     background_image: images/splendid-octopus.svg
     enable_cards: false
     subtitle: >-
-      You can verify your NFTs and add the features you want and put them on the
+      You can verify your NFTs and add the features and put them on the
       marketplace you want to sell. When it is sold, new owners can come and
       access the content you have prepared specially for them.
   - type: features_section
