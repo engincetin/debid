@@ -42,7 +42,8 @@ sections:
     enable_cards: false
     subtitle: >-
       You can verify your NFTs and add the features and owners can access the
-      content you have prepared specially for them.
+      content you have prepared specially for them. Make your NFTs more
+      functional and sustainable
   - type: features_section
     features:
       - title: Do you just need to open an auction?
