@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Subnet for NFTs
+    title: Debid designed to verify and empower NFTs with more features.
     subtitle: >-
       Debid is a subnet for NFTs where you can validate and empower them with
       additional digital, physical and experiential features with zero coding
