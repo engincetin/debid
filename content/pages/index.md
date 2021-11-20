@@ -36,7 +36,7 @@ sections:
       - image: images/qq.png
         image_alt: Logo 1
         image_align: center
-      - image: images/pink-rabbit.svg
+      - image: images/qq2.png
         image_alt: Logo 2
         image_align: center
       - image: images/bsc.svg
