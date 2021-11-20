@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Join waitlist
         url: '#'
-        style: primary
+        style: secondary
         has_icon: false
         icon: arrow-right
         icon_position: right
