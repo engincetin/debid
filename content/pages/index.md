@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Network for Metaverse NFTs
+    title: Build trust and offer sustainable NFTs
     subtitle: >-
       Debid is a subnet for NFTs where you can validate and empower them with
       additional digital, physical and experiential features with zero coding
