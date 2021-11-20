@@ -3,7 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: Build trust and offer sustainable NFTs
-    subtitle: "Debid\_ help creators and enterprises to launch customized NFT offerings for bring their non-fungible goods to decentrelized metaverse in a secure, eco-friendly, blazingly fast way."
+    subtitle: >-
+      Debid help creators and enterprises to launch customized NFT offerings for
+      bring their non-fungible goods to decentrelized metaverse in a secure,
+      eco-friendly, blazingly fast way.
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
