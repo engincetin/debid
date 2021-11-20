@@ -5,7 +5,7 @@ sections:
     title: Build trust and offer sustainable NFTs
     subtitle: >-
       Debid help creators and enterprises to create regulatory compatible custom
-      rule sets for their non-fungible assets in a secure, eco-friendly,
+      rule sets for create their non-fungible assets in a secure, eco-friendly,
       blazingly fast way.
     actions:
       - label: Join waitlist
