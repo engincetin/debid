@@ -107,7 +107,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 10
 seo:
-  title: DeBid
+  title: Debid.io
   description: >-
     Debid help creators and enterprises to create regulatory compatible custom
     rule sets for their non-fungible assets in a secure, eco-friendly, blazingly
