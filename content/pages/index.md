@@ -4,9 +4,9 @@ sections:
   - type: hero_section
     title: Build trust and offer sustainable NFTs
     subtitle: >-
-      Debid is a subnet for NFTs where you can validate and empower them with
-      additional digital, physical and experiential features with zero coding
-      required.
+      Debid’s regulatory compatible NFT network help creators and enterprises to
+      launch customized NFT offerings for bring their non-fungible goods to
+      decentrelized metaverse in a secure, eco-friendly, blazingly fast way.
     actions: []
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
