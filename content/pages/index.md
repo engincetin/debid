@@ -42,10 +42,6 @@ sections:
     background_color: none
     background_image: images/splendid-octopus.svg
     enable_cards: false
-    subtitle: >-
-      You can verify your NFTs and add the features and owners can access the
-      content you have prepared specially for them. Make your NFTs more
-      functional and sustainable
   - type: features_section
     features:
       - title: Sell on any marketplace
