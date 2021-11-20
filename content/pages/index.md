@@ -39,7 +39,7 @@ sections:
       - image: images/qq2.png
         image_alt: Logo 2
         image_align: center
-      - image: images/bsc.svg
+      - image: images/qq3.png
         image_alt: Logo 3
         image_align: center
     grid_cols: three
