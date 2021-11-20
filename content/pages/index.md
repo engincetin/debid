@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Debid
 sections:
   - type: hero_section
     title: Build trust and offer sustainable NFTs
