@@ -10,7 +10,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: '#'
-        style: link
+        style: primary
         has_icon: false
         icon: arrow-right
         icon_position: right
