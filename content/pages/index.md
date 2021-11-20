@@ -20,7 +20,9 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: Beyond just visual and audio NFTs
+    title: >-
+      As NFTs radically change ownership rights they also increasingly continue
+      to face problems with regulations
     align: center
     grid_items:
       - image: images/eth2.svg
