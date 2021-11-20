@@ -109,8 +109,9 @@ sections:
 seo:
   title: DeBid
   description: >-
-    Create auctions without central authority sitting between bidders and
-    seller.
+    Debid help creators and enterprises to create regulatory compatible custom
+    rule sets for their non-fungible assets in a secure, eco-friendly, blazingly
+    fast way.
   extra:
     - name: 'og:type'
       value: website
