@@ -8,7 +8,7 @@ sections:
       rule sets for their non-fungible assets in a secure, eco-friendly,
       blazingly fast way.
     actions:
-      - label: lorem-ipsum
+      - label: Join waitlist
         url: '#'
         style: primary
         has_icon: false
