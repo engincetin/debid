@@ -7,7 +7,15 @@ sections:
       Debid help creators and enterprises to create regulatory compatible custom
       rule sets for their non-fungible assets in a secure, eco-friendly,
       blazingly fast way.
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        has_icon: false
+        icon: arrow-left
+        icon_position: right
+        new_window: false
+        no_follow: false
     image: images/main-frame2x.png
     image_alt: Hero section placeholder image
     media_position: bottom
