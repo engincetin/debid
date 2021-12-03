@@ -4,9 +4,8 @@ sections:
   - type: hero_section
     title: Custom infrastructures for non-fungible goods
     subtitle: >-
-      Debid help creators and enterprises to create regulatory compatible custom
-      rule sets for create their non-fungible assets in a secure, eco-friendly,
-      blazingly fast way.
+      Build NFT experiences from the ground up with compliant rulesets for your
+      business.
     actions:
       - label: Join waitlist
         url: '#'
