@@ -2,7 +2,7 @@
 title: Debid
 sections:
   - type: hero_section
-    title: Custom infrastructuresfor non-fungible goods
+    title: Custom infrastructures for non-fungible goods
     subtitle: >-
       Build NFT experiences from the ground up with compliant rulesets for your
       business.
