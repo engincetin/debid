@@ -49,6 +49,7 @@ sections:
     background_color: none
     background_image: images/splendid-octopus.svg
     enable_cards: false
+    subtitle: d
   - type: features_section
     features:
       - title: Sell on any marketplace
