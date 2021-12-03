@@ -2,7 +2,7 @@
 title: Debid
 sections:
   - type: hero_section
-    title: Build trust and offer sustainable NFTs
+    title: Custom infrastructures for non-fungible goods
     subtitle: >-
       Debid help creators and enterprises to create regulatory compatible custom
       rule sets for create their non-fungible assets in a secure, eco-friendly,
