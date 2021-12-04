@@ -27,7 +27,7 @@ sections:
     background_image_size: auto
     background_image_opacity: 60
   - type: grid_section
-    title: 'Your '
+    title: Your NFTs Your Way
     align: center
     grid_items:
       - image_alt: Logo 1
