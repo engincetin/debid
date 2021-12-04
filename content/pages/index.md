@@ -98,7 +98,7 @@ sections:
       DEBID is preparing to build its own ecosystem with **DBID** token, contact
       us for your early investment and cooperation requests.
     actions:
-      - label: lorem-ipsum
+      - label: get in touch
         url: '#'
         style: secondary
         has_icon: false
