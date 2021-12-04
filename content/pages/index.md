@@ -57,7 +57,7 @@ sections:
         image_alt: Feature 1 placeholder image
         media_position: left
         media_width: sixty
-      - title: We made it easy for you
+      - title: Custom experiences
         content: >
           At Debid we pride ourselves on being easy to use, you can create your
           auction with one click without dealing with tons of details.
