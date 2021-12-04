@@ -89,7 +89,7 @@ sections:
         align: center
         subtitle: >-
           Collaborate with Debid to create your own NFT platform. Organize
-          debid's auction protocols as you wish on your own platform
+          debid's protocols as you wish on your own platform
     feature_padding_vert: small
     background_color: none
   - type: cta_section
