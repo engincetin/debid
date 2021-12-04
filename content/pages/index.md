@@ -95,8 +95,8 @@ sections:
   - type: cta_section
     title: Get notified about debid
     content: >
-      DEBID is preparing to build its own ecosystem with **DBID** token, contact
-      us for your early investment and cooperation requests.
+      DEBID is preparing to build its own ecosystem, contact us for your early
+      investment and cooperation requests.
     actions:
       - label: Get in touch
         url: '#'
