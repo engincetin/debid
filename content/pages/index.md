@@ -88,7 +88,7 @@ sections:
         title: 'Create your own custom NFT store '
         align: center
         subtitle: >-
-          Collaborate with Debid to create your own auction platform. Organize
+          Collaborate with Debid to create your own NFT platform. Organize
           debid's auction protocols as you wish on your own platform
     feature_padding_vert: small
     background_color: none
