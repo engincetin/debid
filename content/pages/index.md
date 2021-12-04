@@ -34,8 +34,7 @@ sections:
     grid_items:
       - image_alt: Logo 1
         image_align: center
-      - image: images/qq2.png
-        image_alt: Logo 2
+      - image_alt: Logo 2
         image_align: center
       - image: images/qq3.png
         image_alt: Logo 3
