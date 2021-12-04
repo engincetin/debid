@@ -59,8 +59,8 @@ sections:
         media_width: sixty
       - title: Custom experiences
         content: >
-          At Debid we pride ourselves on being easy to use, you can create your
-          auction with one click without dealing with tons of details.
+          You can design and add unique experiences for your NFTs with
+          customization tools.
         actions: []
         image: images/1133089dd.svg
         image_alt: Feature 2 placeholder image
