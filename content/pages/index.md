@@ -8,7 +8,7 @@ sections:
       business.
     actions:
       - label: Get early access
-        url: '#'
+        url: 'https://jlzdi8f7iar.typeform.com/to/F1t1EdU1'
         style: secondary
         has_icon: false
         icon: arrow-right
