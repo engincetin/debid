@@ -68,9 +68,9 @@ sections:
         media_width: sixty
       - title: Keep sustainable
         content: >
-          We are against central market areas as Debid. We aim to enable
-          everyone to create their auction as they wish and share it wherever
-          they want
+          Maintain communication with the audience. Continue to offer new
+          experiences to NFT holders while protecting the nature by being energy
+          efficient.
         actions: []
         image: images/11330922w.svg
         image_alt: Feature 3 placeholder image
