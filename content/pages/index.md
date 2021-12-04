@@ -85,7 +85,7 @@ sections:
         image_alt: Ursula Gurnmeister photo
         media_position: bottom
         media_width: thirty-three
-        title: Create Your Own cus
+        title: Create Your Own custom
         align: center
         subtitle: >-
           Collaborate with Debid to create your own auction platform. Organize
