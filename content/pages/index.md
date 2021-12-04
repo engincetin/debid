@@ -50,9 +50,8 @@ sections:
     features:
       - title: Build transparency
         content: >
-          You do not have to register somewhere to create an auction, and share
-          a lot of your information with anyone. You can easily do this by using
-          debid.
+          It verifies whether the users are real people, legal payment methods
+          are used, and the necessary rules for certain transactions are met.
         actions: []
         image: images/Framfsee 30.svg
         image_alt: Feature 1 placeholder image
