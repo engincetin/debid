@@ -7,7 +7,7 @@ sections:
       Build NFT experiences from the ground up with compliant rulesets for your
       business.
     actions:
-      - label: 'Get early '
+      - label: Get early get early access
         url: '#'
         style: secondary
         has_icon: false
