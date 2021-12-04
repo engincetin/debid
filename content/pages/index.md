@@ -45,8 +45,8 @@ sections:
     background_image: images/splendid-octopus.svg
     enable_cards: false
     subtitle: >-
-      As NFTs radically change ownership rights they also increasingly continue
-      to face problems with regulations
+      As NFTs radically change ownership rights, they also bring problems for
+      businesses under legal responsibility that want to enter this field.
   - type: features_section
     features:
       - title: Build transparency
