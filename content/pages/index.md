@@ -32,8 +32,7 @@ sections:
       to face problems with regulations
     align: center
     grid_items:
-      - image: images/qq.png
-        image_alt: Logo 1
+      - image_alt: Logo 1
         image_align: center
       - image: images/qq2.png
         image_alt: Logo 2
