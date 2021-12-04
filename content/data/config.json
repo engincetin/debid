@@ -12,19 +12,7 @@
         "logo_alt": "Debid",
         "has_primary_nav": false,
         "has_secondary_nav": true,
-        "secondary_nav_links": [
-            {
-                "label": "Whitepaper",
-                "url": "https://docs.debid.io/",
-                "style": "link",
-                "has_icon": false,
-                "icon": "arrow-left",
-                "icon_position": "right",
-                "new_window": true,
-                "no_follow": false,
-                "type": "action"
-            }
-        ],
+        "secondary_nav_links": [],
         "has_anncmnt": false,
         "anncmnt_align": "right"
     },
