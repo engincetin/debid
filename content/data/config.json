@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Debid",
-        "logo": "images/logonewsvg.svg",
+        "logo": "images/logonewsvg2.svg",
         "logo_alt": "Debid",
         "has_primary_nav": false,
         "has_secondary_nav": true,
