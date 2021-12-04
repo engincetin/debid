@@ -48,7 +48,7 @@ sections:
     enable_cards: false
   - type: features_section
     features:
-      - title: Sell on any marketplace
+      - title: Build transparency
         content: >
           You do not have to register somewhere to create an auction, and share
           a lot of your information with anyone. You can easily do this by using
