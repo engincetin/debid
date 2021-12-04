@@ -46,7 +46,9 @@ sections:
     background_color: none
     background_image: images/splendid-octopus.svg
     enable_cards: false
-    subtitle: drgdgdgfgd
+    subtitle: >-
+      As NFTs radically change ownership rights they also increasingly continue
+      to face problems with regulations
   - type: features_section
     features:
       - title: Build transparency
