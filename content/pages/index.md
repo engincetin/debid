@@ -7,7 +7,7 @@ sections:
       Build NFT experiences from the ground up with compliant rulesets for your
       business.
     actions:
-      - label: Join waitlist
+      - label: 'Get early '
         url: '#'
         style: secondary
         has_icon: false
