@@ -46,6 +46,7 @@ sections:
     background_color: none
     background_image: images/splendid-octopus.svg
     enable_cards: false
+    subtitle: drgdgdgfgd
   - type: features_section
     features:
       - title: Build transparency
