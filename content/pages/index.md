@@ -4,7 +4,7 @@ sections:
   - type: hero_section
     title: Custom infrastructures for non-fungible goods
     subtitle: >-
-      Build NFT experiences from the ground up with compliant rulesets for your
+      Build experiences from the ground up with compliant rulesets for your
       business.
     actions:
       - label: Get early access
